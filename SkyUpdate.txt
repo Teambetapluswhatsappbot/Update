@@ -1,0 +1,3 @@
+versionName=3.0
+webpageUrl=https://t.me/RCMods/2001
+dialogTitle=RCGram v3.0
