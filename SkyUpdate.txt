@@ -1,3 +1,3 @@
 versionName=2.2
-webpageUrl=https://t.me/xxSky_Modsxx
+webpageUrl=https://t.me/xxSky_Modsxx/55
 dialogTitle=SKYWhatsApp v2.2
